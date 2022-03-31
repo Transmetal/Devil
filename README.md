@@ -36,7 +36,7 @@ operating systems - Kali Linux and Termux!
 
 > apt-get install git -y
 
-> git clone https://github.com/evildevill/Devil.git
+> git clone https://github.com/Transmetal/Devil
 
 > cd Devil
 
@@ -82,19 +82,6 @@ it for users who think that his/her friend or parents will
 turn into Devil and will remove or destroy it. Only for this 
 people we created Devil Framework password protection.
 ```
-
-
-
-
-
-# SubScribe Our YouTube Channel
-
-<a href="https://www.youtube.com/channel/UC0bX56PZ_nMZw3t4p90SYyQ">
-<p><img src="https://img.shields.io/badge/YouTube-TheLinuxChoice-blue.svg"></p>
-</a>
-
-
-![devil-yellow](https://github.com/evildevill/Devil/blob/master/ascets/youtube%20channel.png)
 
 # Devil Framework disclaimer
 
